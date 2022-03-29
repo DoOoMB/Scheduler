@@ -1,0 +1,10 @@
+C:\Users\Ученик\Desktop\Все работы\Sheduler\Sheduler\Sheduler\bin\Debug\Sheduler.exe.config
+C:\Users\Ученик\Desktop\Все работы\Sheduler\Sheduler\Sheduler\bin\Debug\Sheduler.exe
+C:\Users\Ученик\Desktop\Все работы\Sheduler\Sheduler\Sheduler\bin\Debug\Sheduler.pdb
+C:\Users\Ученик\Desktop\Все работы\Sheduler\Sheduler\Sheduler\obj\Debug\Sheduler.csprojAssemblyReference.cache
+C:\Users\Ученик\Desktop\Все работы\Sheduler\Sheduler\Sheduler\obj\Debug\Sheduler.Form1.resources
+C:\Users\Ученик\Desktop\Все работы\Sheduler\Sheduler\Sheduler\obj\Debug\Sheduler.Properties.Resources.resources
+C:\Users\Ученик\Desktop\Все работы\Sheduler\Sheduler\Sheduler\obj\Debug\Sheduler.csproj.GenerateResource.cache
+C:\Users\Ученик\Desktop\Все работы\Sheduler\Sheduler\Sheduler\obj\Debug\Sheduler.csproj.CoreCompileInputs.cache
+C:\Users\Ученик\Desktop\Все работы\Sheduler\Sheduler\Sheduler\obj\Debug\Sheduler.exe
+C:\Users\Ученик\Desktop\Все работы\Sheduler\Sheduler\Sheduler\obj\Debug\Sheduler.pdb
